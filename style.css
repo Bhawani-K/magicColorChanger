@@ -1,0 +1,34 @@
+.color-hover{
+    width: 50%;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.color{
+    width: 20%;
+    margin: 2px;
+}
+.red{
+    background-color: #ff0000;
+}
+.cyan{
+    background-color: #00FFFF;
+}
+.violet{
+    background-color: #7F00FF;
+}
+.orange{
+    background-color: #FFA500;
+}
+.pink{
+    background-color: #FFC0CB;
+}
+.center{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 30%;
+    left: 45%;
+    border-radius: 50%;
+}
